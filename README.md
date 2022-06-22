@@ -1,2 +1,3 @@
-# estudos-python
-Repositório focado em desenvolvimento em python.
+# Estudos Python
+
+- Repositório focado em desenvolvimento em python.
